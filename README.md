@@ -1,2 +1,2 @@
 # antimatter-generator-game
-Your aim is to generate as many antimatters as you can. 
+In this game, your aim is to generate as many antimatters as you can. You can create an account before you play the game. In this way, your score is saved by the game. Next time you run the code, you can see your and other players' previous scores. (Only the 5 highest scores are able to seen). Also, if you have already created an account, you can log in and play again. If your new score is higher than your previous scores, only your last score remains. You can find the detailed explanation in the code.
